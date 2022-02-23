@@ -1,0 +1,32 @@
+Debut
+
+TOUS: Recherche en amont d'infos avant la première séance de projet
+
+S6 - 10/02/2021: Caractérisation du sujet BeagleBone 
+
+TOUS:   - Mise en commun des informations (Linux, IDE, datasheet...)
+        - Précision du projet : banc de mesure drone couplé à la BeagleBone
+        - Elaboration des livrables 
+
+S7 - 17/02/2021:
+
+TOUS:   - Fin et rendu du contrat de projet (livrables) 
+        - Brain-storming (dispo discord/docs)
+        - Planification : Deadline et répartition 
+
+S9 - 03/03/2021:
+
+Gabriel et Mathias:     - Travail sur la cellule de poids
+                        - Familiarisation avec les GPIO de la BBB
+                        - Test de récupération de donnée : OK
+Théodore et Victor:     - Travail sur la commande du moteur
+                        - Familiarisation avec la commande PWM de la BBB
+                        - Pin P9 14 utilisé 
+        
+S10 - 10/03/2021:       
+
+Théodore et Victor:     - Création d'un signal PWM à envoyer au moteur brushless
+                        - Recherche sur l'initialisation de l'ESC => à affiner
+Gabriel et Mathias:     - Récupération et stockage d'une donnée
+                        - Recherche sur le capteur HX711
+TOUS: Régler le problème de connexion protocole SSH de la BBB (adresse ordi != adresse BBB saved)
